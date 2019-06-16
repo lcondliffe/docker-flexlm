@@ -1,4 +1,4 @@
-# Autodesk Maya 2019 License Server
+# Autodesk license server container
 
 Docker container to be used to serve Autodesk 2020 site license.
 
